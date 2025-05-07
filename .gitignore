@@ -1,0 +1,6 @@
+# Ignore sensitive or generated files
+alerts/
+*.log
+__pycache__/
+*.pyc
+config.ini
